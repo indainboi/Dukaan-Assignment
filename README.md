@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abhijitkr/Dukaan-Assignment.git
+   git clone https://github.com/indainboi/Dukaan-Assignment.git
    ```
 
 2. Navigate to dukaan-assignment
