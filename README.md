@@ -11,7 +11,7 @@ The project aims to replicate the provided Figma design using React Vite. It inc
 
 ## Screen
 
-![Aditya Payment](./src/payments/images/paymentScreen.png)
+![Aditya Payment](./src/payments/images/Screenshot.png)
 
 ## Technologies Used
 
